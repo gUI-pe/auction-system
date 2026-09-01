@@ -199,4 +199,4 @@ Only the Gateway loads a `.env` file (`cmd/gateway/.env`); the other services fa
 - Guilherme Peruci Felippe — [guilhermefelippe@alunos.utfpr.edu.br](mailto:guilhermefelippe@alunos.utfpr.edu.br)
 - Caique Ferraz Cornelio — [caiqueferraz@alunos.utfpr.edu.br](mailto:caiqueferraz@alunos.utfpr.edu.br)
 
-Instituto de Informática – Universidade Tecnológica Federal do Paraná (UTFPR).
+Instituto de Informática – Universidade Tecnológica Federal do Paraná (UTFPR)
